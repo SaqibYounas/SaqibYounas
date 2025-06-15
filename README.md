@@ -33,13 +33,13 @@ BSIT student (5th semester) eager to apply frontend and backend skills in a real
 `HTML` • `CSS` • `JavaScript` • `React.js` • `Redux` • `Zustand` • `Tailwind CSS` • `Bootstrap5`
 
 **Backend:**  
-`Node.js` • `Express.js` • `REST APIs` • `Passport.js` • `JWT` • `2FA`
+`Node.js` • `Express.js` • `REST APIs` • `Passport.js` • `JWT` • `Sockets.io`
 
 **Databases:**  
 `MongoDB` • `PostgreSQL` • `SQL Server` • `Redis`
 
 **DevOps & Tools:**  
-`Docker` • `Git` • `GitHub` • `CI/CD (GitHub Actions)` • `Nginx` • `Vercel`
+`Docker` • `Git` • `GitHub` • `CI/CD (GitHub Actions)` • `Nginx` • `Vercel` • `Render` • `Railway`
 
 **Testing:**  
 `Jest` • `Postman`
