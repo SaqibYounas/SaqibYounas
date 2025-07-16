@@ -23,7 +23,7 @@ BSIT student (5th semester) eager to apply frontend and backend skills in a real
 **Bachelor of Science in Information Technology (BSIT)**  
 *The Superior University, Lahore*  
 📅 Start: October 2023 — 🎓 Expected: 2027  
-📈 CGPA: 3.26
+📈 CGPA: 3.3
 
 ---
 
