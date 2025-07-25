@@ -28,29 +28,44 @@ BSIT student (5th semester) eager to apply frontend and backend skills in a real
 ---
 
 ### 🛠️ Skills
+🛠️ Tech Stack
 
-**Frontend:**  
-`HTML` • `CSS` • `JavaScript` • `TypeScript` • `React.js` • `Next.js` • `Redux` • `Zustand` • `Tailwind CSS` • `Bootstrap5`
+🎨 Frontend
+🧱 HTML5, CSS3, JavaScript, TypeScript
+⚛️ React.js, Next.js
+📦 Redux, Zustand
+🎨 Tailwind CSS, Bootstrap5
 
-**Backend:**  
-`Node.js` • `Express.js` • `REST APIs` • `GraphQL` • `OAuth2.0` • `JWT` • `Socket.io`
+🔧 Backend
+🟩 Node.js, Express.js
+🔁 REST APIs, GraphQL
+🔐 OAuth2.0, JWT
+🔌 Socket.io
 
-**Databases:**  
-`MongoDB` • `PostgreSQL` • `SQL Server` • `Redis`
+🗄️ Databases
+🍃 MongoDB
+🐘 PostgreSQL
+🧮 SQL Server
+🚀 Redis
 
-**DevOps & Tools:**  
-`Docker` • `Git` • `GitHub` • `CI/CD (GitHub Actions)` • `Nginx` • `Vercel` • `Render` • `Railway`
+⚙️ DevOps & Tools
+🐳 Docker
+🔁 CI/CD (GitHub Actions)
+🧰 Git, GitHub
+🌐 Nginx
 
-**Testing:**  
-`Vitest` • `Jest` • `React Testing Library (RTL)` • `Postman`
+🚀 Deployment: Vercel, Render, Railway
 
-**Methodologies:**  
-`Agile` • `Scrum`
+🧪 Testing
+🧪 Vitest, Jest
+🧪 React Testing Library
+🔍 Postman
 
-**Soft Skills:**  
-Problem solving • Communication • Teamwork
+📋 Methodologies
+🚀 Agile
+📅 Scrum
 
----
-
-
-
+🤝 Soft Skills
+🧠 Problem Solving
+🗣️ Communication
+🤝 Teamwork
