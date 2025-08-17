@@ -10,7 +10,7 @@
   - 📞 Phone: 0342-0339016
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy solving real-world problems by converting ideas into interactive web apps.
-
+ 
 ---
 
 ### 🎯 Objective  
