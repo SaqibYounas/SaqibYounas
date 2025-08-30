@@ -6,7 +6,7 @@
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/muhammad-saqib-younas-0123aa329)
   - [GitHub](https://github.com/SaqibYounas)
-  - ✉️ Email: muhammadsaqibyounas11@gmail.com
+  - ✉️ Email: muhammadsaqibyounas11@gmail.com 
   - 📞 Phone: 0342-0339016
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy solving real-world problems by converting ideas into interactive web apps.
