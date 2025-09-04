@@ -1,16 +1,18 @@
+
+
 # 👋 Hi, I’m Saqib Younas
 
-- 👀 I’m interested in full-stack web development, open-source collaboration, and scalable application design.
-- 🌱 I’m currently learning advanced backend development with Node.js, database optimization, and full-stack deployment.
-- 💞️ I’m looking to collaborate on real-world web projects, internships, and hackathons.
+- 💻 I’m a **Full-Stack Web Developer** specializing in building scalable and interactive web applications.
+- 🌱 Currently enhancing my skills in advanced backend development with Node.js, database optimization, and full-stack deployment.
+- 💞️ Looking to collaborate on real-world web projects, internships, and hackathons.
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/muhammad-saqib-younas-0123aa329)
-  - [GitHub](https://github.com/SaqibYounas)
+  - [GitHub (Full-Stack Projects)](https://github.com/SaqibYounas)
   - ✉️ Email: muhammadsaqibyounas11@gmail.com 
   - 📞 Phone: 0342-0339016
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy solving real-world problems by converting ideas into interactive web apps.
- 
+
 ---
 
 ### 🎯 Objective  
