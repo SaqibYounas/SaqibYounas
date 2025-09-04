@@ -1,19 +1,25 @@
-
-
 # 👋 Hi, I’m Saqib Younas
 
-- 💻 I’m a **Full-Stack Web Developer** specializing in building scalable and interactive web applications.
-- 🌱 Currently enhancing my skills in advanced backend development with Node.js, database optimization, and full-stack deployment.
-- 💞️ Looking to collaborate on real-world web projects, internships, and hackathons.
-- 📫 How to reach me:
-  - [LinkedIn](https://www.linkedin.com/in/muhammad-saqib-younas-0123aa329)
-  - [GitHub (Full-Stack Projects)](https://github.com/SaqibYounas)
-  - ✉️ Email: muhammadsaqibyounas11@gmail.com 
-  - 📞 Phone: 0342-0339016
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy solving real-world problems by converting ideas into interactive web apps.
+#### 💻 Full-Stack Web Developer
+---
+Specializing in building scalable and interactive web applications.
+
+💞️ Looking to collaborate on real-world web projects, internships, and hackathons.
+
+📫 How to reach me:  
+- [LinkedIn](https://www.linkedin.com/in/muhammad-saqib-younas-0123aa329)  
+- [GitHub (Full-Stack Projects)](https://github.com/SaqibYounas)  
+- ✉️ Email: muhammadsaqibyounas11@gmail.com  
+- 📞 Phone: 0342-0339016  
+
+😄 Pronouns: He/Him  
+⚡ Fun fact: I enjoy solving real-world problems by converting ideas into interactive web apps.
 
 ---
+
+### About Me
+I am a passionate Full-Stack Web Developer focused on creating robust and user-friendly web applications. I enjoy working on both frontend and backend technologies, integrating APIs, and optimizing database performance to deliver efficient solutions. My goal is to convert innovative ideas into practical, interactive web experiences.
+
 
 ### 🎯 Objective  
 BSIT student (5th semester) eager to apply frontend and backend skills in a real-world internship. Currently building projects using **React**, **Node.js**, and **databases** to gain hands-on experience.
