@@ -17,9 +17,9 @@ Specializing in building scalable and interactive web applications.
 
 ---
 
-### About Me
-I am a passionate Full-Stack Web Developer focused on creating robust and user-friendly web applications. I enjoy working on both frontend and backend technologies, integrating APIs, and optimizing database performance to deliver efficient solutions. My goal is to convert innovative ideas into practical, interactive web experiences.
+### 👤 About Me
 
+I’m a passionate Full-Stack Web Developer with hands-on experience in building scalable and user-friendly web applications. Through internships at Appaura (Frontend) and TechTommy (Backend), I’ve worked on real-world projects involving React.js, Node.js, MongoDB, and modern UI/UX frameworks. I enjoy bridging frontend and backend systems, integrating APIs, and optimizing performance to deliver practical, interactive web experiences. My goal is to solve real problems by turning innovative ideas into high-impact digital solutions.
 
 ### 🎯 Objective  
 BSIT student (5th semester) eager to apply frontend and backend skills in a real-world internship. Currently building projects using **React**, **Node.js**, and **databases** to gain hands-on experience.
@@ -50,6 +50,7 @@ Integrated backend services to support dynamic frontend applications.
 Deployed applications and managed version control using Git and CI/CD tools.
 Gained hands-on experience in backend workflows and real-world project collaboration.
 
+---
 
 ## 🛠️ Tech Stack
 
