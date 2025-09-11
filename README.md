@@ -88,16 +88,20 @@ BSIT student (5th semester) with hands-on experience in both frontend and backen
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
 ---
+### ☁️ Cloud & Hosting
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-0099FF?logo=render&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-000000?logo=railway&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+
+---
 
 ### ⚙️ DevOps & Tools  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-0099FF?logo=render&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-000000?logo=railway&logoColor=white)
 
 ---
 
