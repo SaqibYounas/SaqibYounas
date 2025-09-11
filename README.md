@@ -36,19 +36,20 @@ BSIT student (5th semester) eager to apply frontend and backend skills in a real
 --- 
 
 ### 💼 Experience
-**🌐 Appaura — Frontend Developer Intern (6 Weeks)** 
-*📍 Remote | 📅 Aug 2025 – Sep 2025*
-Worked on real-world web applications using React.js and modern UI libraries.
-Built responsive interfaces and reusable components with Tailwind CSS and Bootstrap.
-Collaborated with team members to solve practical frontend challenges.
-Utilized Git/GitHub for version control and followed component-based architecture.
 
-**🛠️ TechTommy — Backend Developer Intern (6 Weeks)**
-*📍 Remote | 📅 Aug 2025 – Sep 2025*
-Built RESTful APIs using Node.js, Express.js,TypeScript.js and MongoDB to handle backend logic.
-Integrated backend services to support dynamic frontend applications.
-Deployed applications and managed version control using Git and CI/CD tools.
-Gained hands-on experience in backend workflows and real-world project collaboration.
+- **🌐 Appaura — Frontend Developer Intern (6 Weeks)**  
+  📍 Remote | 📅 Aug 2025 – Sep 2025  
+  - Worked on real-world web applications using React.js and modern UI libraries  
+  - Built responsive interfaces and reusable components with Tailwind CSS and Bootstrap  
+  - Collaborated with team members to solve practical frontend challenges  
+  - Utilized Git/GitHub for version control and followed component-based architecture  
+
+- **🛠️ TechTommy — Backend Developer Intern (6 Weeks)**  
+  📍 Remote | 📅 Oct 2025 – Nov 2025  
+  - Built RESTful APIs using Node.js, Express.js, TypeScript, and MongoDB  
+  - Integrated backend services to support dynamic frontend applications  
+  - Deployed applications and managed version control using Git and CI/CD tools  
+  - Gained hands-on experience in backend workflows and real-world project collaboration
 
 ---
 
