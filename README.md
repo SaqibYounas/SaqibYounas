@@ -22,7 +22,8 @@ Specializing in building scalable and interactive web applications.
 I’m a passionate Full-Stack Web Developer with hands-on experience in building scalable and user-friendly web applications. Through internships at Appaura (Frontend) and TechTommy (Backend), I’ve worked on real-world projects involving React.js, Node.js, MongoDB, and modern UI/UX frameworks. I enjoy bridging frontend and backend systems, integrating APIs, and optimizing performance to deliver practical, interactive web experiences. My goal is to solve real problems by turning innovative ideas into high-impact digital solutions.
 
 ### 🎯 Objective  
-BSIT student (5th semester) eager to apply frontend and backend skills in a real-world internship. Currently building projects using **React**, **Node.js**, and **databases** to gain hands-on experience.
+
+BSIT student (5th semester) with hands-on experience in both frontend and backend development through real-world internships. Skilled in building full-stack applications using React, Node.js, TypeScript, and MongoDB. Actively seeking opportunities to contribute to practical projects, enhance my skills, and grow as a Full-Stack Web Developer.
 
 ---
 
