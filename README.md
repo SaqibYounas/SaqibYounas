@@ -45,7 +45,7 @@ BSIT student (5th semester) eager to apply frontend and backend skills in a real
   - Utilized Git/GitHub for version control and followed component-based architecture  
 
 - **🛠️ TechTommy — Backend Developer Intern (6 Weeks)**  
-  📍 Remote | 📅 Oct 2025 – Nov 2025  
+  📍 Remote | 📅 Aug 2025 – Sep 2025  
   - Built RESTful APIs using Node.js, Express.js, TypeScript, and MongoDB  
   - Integrated backend services to support dynamic frontend applications  
   - Deployed applications and managed version control using Git and CI/CD tools  
