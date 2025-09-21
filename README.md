@@ -3,7 +3,7 @@
 ### 💻 Full-Stack Web Developer
 --- 
 Specializing in building scalable and interactive web applications. 
- 
+  
 💞️ Looking to collaborate on real-world web projects, internships, and hackathons. 
 
 📫 How to reach me:     
