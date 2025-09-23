@@ -7,7 +7,7 @@ Specializing in building scalable and interactive web applications.
 💞️ Looking to collaborate on real-world web projects, internships, and hackathons. 
 
 📫 How to reach me:     
-- [LinkedIn](https://www.linkedin.com/in/muhammad-saqib-younas-0123aa329)  
+- [LinkedIn](https://www.linkedin.com/in/muhammad-saqib-younas-0123aa329)   
 - [GitHub (Full-Stack Projects)](https://github.com/SaqibYounas)  
 - ✉️ Email: muhammadsaqibyounas11@gmail.com   
 - 📞 Phone: 0342-0339016   
