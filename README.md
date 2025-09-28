@@ -4,7 +4,7 @@
 --- 
 Specializing in building scalable and interactive web applications. 
    
-💞️ Looking to collaborate on real-world web projects, internships, and hackathons. 
+💞️ Looking to collaborate on real-world web projects, internships, and hackathons.  
 
 📫 How to reach me:     
 - [LinkedIn](https://www.linkedin.com/in/muhammad-saqib-younas-0123aa329)   
