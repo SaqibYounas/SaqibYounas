@@ -38,7 +38,7 @@ BSIT student (5th semester) with hands-on experience in both frontend and backen
 ### 💼 Experience
 
 - **🌐 Appaura — Frontend Developer Intern (6 Weeks)**  
-  📍 Remote | 📅 JUL 2025 – Sep 2025  
+  📍 Remote | 📅 Jul 2025 – Sep 2025  
   - Worked on real-world web applications using React.js and modern UI libraries  
   - Built responsive interfaces and reusable components with Tailwind CSS and Bootstrap  
   - Collaborated with team members to solve practical frontend challenges  
