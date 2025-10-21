@@ -1,63 +1,77 @@
 # 👋 Hi, I’m Saqib Younas
 
 ### 💻 Full-Stack Web Developer
----  
+---
 Specializing in building scalable and interactive web applications. 
-   
+
 💞️ Looking to collaborate on real-world web projects, internships, and hackathons.  
 
-📫 How to reach me:     
-- [LinkedIn](https://www.linkedin.com/in/muhammad-saqib-younas-0123aa329)   
+📫 **How to reach me:**  
+- 🌐 [Portfolio](https://portfolio-github-io-seven-gamma.vercel.app/)  
+- [LinkedIn](https://www.linkedin.com/in/muhammad-saqib-younas-0123aa329)  
 - [GitHub (Full-Stack Projects)](https://github.com/SaqibYounas)  
-- ✉️ Email: muhammadsaqibyounas11@gmail.com   
-- 📞 Phone: 0342-0339016   
+- ✉️ **Email:** muhammadsaqibyounas11@gmail.com  
+- 📞 **Phone:** 0342-0339016  
 
-😄 Pronouns: He/Him  
-⚡ Fun fact: I enjoy solving real-world problems by converting ideas into interactive web apps.
+😄 **Pronouns:** He/Him  
+⚡ **Fun fact:** I enjoy solving real-world problems by converting ideas into interactive web apps.
 
 ---
 
 ### 👤 About Me
 
- I’m Muhammad Saqib, a BSIT student in my 5th semester who genuinely enjoys building websites that actually help people.
- My first web project made me realize how exciting it is to turn an idea into something real. Since then, I have worked on both frontend and backend
- projects, improving my skills one step at a time.
- I have completed two internships at Appaura (frontend) and TechTommy (backend), working with React.js, Node.js, and PostgreSQL.I m now
- eager to grow as a Full Stack Developer and contribute to building impactful, user focused solutions.
- 
-### 🎯 Objective  
-
-BSIT student (5th semester) with hands-on experience in both frontend and backend development through real-world internships. Skilled in building full-stack applications using React, Node.js, TypeScript, and MongoDB. Actively seeking opportunities to contribute to practical projects, enhance my skills, and grow as a Full-Stack Web Developer.
+I’m **Muhammad Saqib**, a BSIT student in my 5th semester who genuinely enjoys building websites that actually help people.  
+My first web project made me realize how exciting it is to turn an idea into something real. Since then, I have worked on both frontend and backend projects, improving my skills one step at a time.  
+I have completed two internships at **Appaura (Frontend)** and **TechTommy (Backend)**, working with React.js, Node.js, and PostgreSQL.  
+I’m now eager to grow as a **Full Stack Developer** and contribute to building impactful, user-focused solutions.
 
 ---
 
-### 🎓 Education
+### 📜 Certifications  
+
+**HackerRank Certifications**  
+- 🧩 SQL (Basic) — *Issued Sep 2025*  
+- 🧠 SQL (Intermediate) — *Issued Sep 2025*  
+- 🎨 CSS (Basic) — *Issued Sep 2025*  
+- ⚙️ JavaScript (Basic) — *Issued Oct 2025*  
+
+---
+
+### 🎯 Objective  
+
+BSIT student (5th semester) with hands-on experience in both frontend and backend development through real-world internships.  
+Skilled in building full-stack applications using React, Node.js, TypeScript, and MongoDB.  
+Actively seeking opportunities to contribute to practical projects, enhance my skills, and grow as a **Full-Stack Web Developer**.
+
+---
+
+### 🎓 Education  
 
 **Bachelor of Science in Information Technology (BSIT)**  
 *The Superior University, Lahore*  
 📅 Start: October 2023 — 🎓 Expected: 2027  
 
---- 
+---
 
-### 💼 Experience
+### 💼 Experience  
 
 - **🌐 Appaura — Frontend Developer Intern (6 Weeks)**  
   📍 Remote | 📅 Jul 2025 – Sep 2025  
-  - Built responsive web interfaces using React.js.
-  - Translated design mockups into functional components.
-  - Debugged and optimized frontend code for performance.
-  - Integrated APIs and joined code reviews.
+  - Built responsive web interfaces using React.js.  
+  - Translated design mockups into functional components.  
+  - Debugged and optimized frontend code for performance.  
+  - Integrated APIs and joined code reviews.  
 
 - **🛠️ TechTommy — Backend Developer Intern (6 Weeks)**  
   📍 Remote | 📅 Aug 2025 – Sep 2025  
-  - Created REST APIs using Node.js, Express.js, and PostgreSQL.
-  - Designed and implemented database schemas for better performance.
-  - Integrated backend services with frontend features.
-  - Worked on deployment and Git version control.
+  - Created REST APIs using Node.js, Express.js, and PostgreSQL.  
+  - Designed and implemented database schemas for better performance.  
+  - Integrated backend services with frontend features.  
+  - Worked on deployment and Git version control.  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
 ### 🎨 Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -91,7 +105,8 @@ BSIT student (5th semester) with hands-on experience in both frontend and backen
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
 ---
-### ☁️ Cloud & Hosting
+
+### ☁️ Cloud & Hosting  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-0099FF?logo=render&logoColor=white)
@@ -126,13 +141,3 @@ BSIT student (5th semester) with hands-on experience in both frontend and backen
 🧠 Problem Solving  
 🗣️ Communication  
 🤝 Teamwork
-
----
-
-### 📜 Certifications
-**HackerRank Certifications**
-🧩 SQL (Basic) — Issued Sep 2025
-🧠 SQL (Intermediate) — Issued Sep 2025
-🎨 CSS (Basic) — Issued Sep 2025
-⚙️ JavaScript (Basic) — Issued Oct 2025
-
