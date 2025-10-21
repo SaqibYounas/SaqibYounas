@@ -5,11 +5,27 @@
 Specializing in building scalable and interactive web applications. 
 
 💞️ Looking to collaborate on real-world web projects, internships, and hackathons.  
+🔍 Currently seeking a **Full-Stack Developer Internship or Entry-Level Position** to apply and grow my technical skills.
 
 📫 **How to reach me:**  
-- 🌐 [Portfolio](https://portfolio-github-io-seven-gamma.vercel.app/)  
-- [LinkedIn](https://www.linkedin.com/in/muhammad-saqib-younas-0123aa329)  
-- [GitHub (Full-Stack Projects)](https://github.com/SaqibYounas)  
+<p align="left">
+  <a href="https://portfolio-github-io-seven-gamma.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-saqib-younas-0123aa329" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/SaqibYounas" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+✉️ **Email:** muhammadsaqibyounas11@gmail.com  
+📞 **Phone:** 0342-0339016  
+
+😄 **Pronouns:** He/Him  
+⚡ **Fun fact:** I enjoy solving real-world problems by converting ideas into interactive web apps.
+
 - ✉️ **Email:** muhammadsaqibyounas11@gmail.com  
 - 📞 **Phone:** 0342-0339016  
 
