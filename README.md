@@ -19,8 +19,12 @@ Specializing in building scalable and interactive web applications.
 
 ### 👤 About Me
 
-I’m a passionate Full-Stack Web Developer with hands-on experience in building scalable and user-friendly web applications. Through internships at Appaura (Frontend) and TechTommy (Backend), I’ve worked on real-world projects involving React.js, Node.js, MongoDB, and modern UI/UX frameworks. I enjoy bridging frontend and backend systems, integrating APIs, and optimizing performance to deliver practical, interactive web experiences. My goal is to solve real problems by turning innovative ideas into high-impact digital solutions.
-
+ I’m Muhammad Saqib, a BSIT student in my 5th semester who genuinely enjoys building websites that actually help people.
+ My first web project made me realize how exciting it is to turn an idea into something real. Since then, I have worked on both frontend and backend
+ projects, improving my skills one step at a time.
+ I have completed two internships at Appaura (frontend) and TechTommy (backend), working with React.js, Node.js, and PostgreSQL.I m now
+ eager to grow as a Full Stack Developer and contribute to building impactful, user focused solutions.
+ 
 ### 🎯 Objective  
 
 BSIT student (5th semester) with hands-on experience in both frontend and backend development through real-world internships. Skilled in building full-stack applications using React, Node.js, TypeScript, and MongoDB. Actively seeking opportunities to contribute to practical projects, enhance my skills, and grow as a Full-Stack Web Developer.
@@ -39,17 +43,17 @@ BSIT student (5th semester) with hands-on experience in both frontend and backen
 
 - **🌐 Appaura — Frontend Developer Intern (6 Weeks)**  
   📍 Remote | 📅 Jul 2025 – Sep 2025  
-  - Worked on real-world web applications using React.js and modern UI libraries  
-  - Built responsive interfaces and reusable components with Tailwind CSS and Bootstrap  
-  - Collaborated with team members to solve practical frontend challenges  
-  - Utilized Git/GitHub for version control and followed component-based architecture  
+  - Built responsive web interfaces using React.js.
+  - Translated design mockups into functional components.
+  - Debugged and optimized frontend code for performance.
+  - Integrated APIs and joined code reviews.
 
 - **🛠️ TechTommy — Backend Developer Intern (6 Weeks)**  
   📍 Remote | 📅 Aug 2025 – Sep 2025  
-  - Built RESTful APIs using Node.js, Express.js, TypeScript, and MongoDB  
-  - Integrated backend services to support dynamic frontend applications  
-  - Deployed applications and managed version control using Git and CI/CD tools  
-  - Gained hands-on experience in backend workflows and real-world project collaboration
+  - Created REST APIs using Node.js, Express.js, and PostgreSQL.
+  - Designed and implemented database schemas for better performance.
+  - Integrated backend services with frontend features.
+  - Worked on deployment and Git version control.
 
 ---
 
@@ -122,3 +126,13 @@ BSIT student (5th semester) with hands-on experience in both frontend and backen
 🧠 Problem Solving  
 🗣️ Communication  
 🤝 Teamwork
+
+---
+
+### 📜 Certifications
+**HackerRank Certifications**
+🧩 SQL (Basic) — Issued Sep 2025
+🧠 SQL (Intermediate) — Issued Sep 2025
+🎨 CSS (Basic) — Issued Sep 2025
+⚙️ JavaScript (Basic) — Issued Oct 2025
+
