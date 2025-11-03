@@ -72,7 +72,7 @@ Actively seeking opportunities to contribute to practical projects, enhance my s
   - Debugged and optimized frontend code for performance.  
   - Integrated APIs and joined code reviews.  
 
-- **🛠️ TechTommy — Backend Developer Intern (6 Weeks)**  
+- **🛠️ TechTommy — Backend Developer Intern (8 Weeks)**  
   📍 Remote | 📅 Aug 2025 – Sep 2025  
   - Created REST APIs using Node.js, Express.js, and PostgreSQL.  
   - Designed and implemented database schemas for better performance.  
