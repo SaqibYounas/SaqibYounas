@@ -2,7 +2,7 @@
 
 ### 💻 Full-Stack Web Developer
 ---  
-Specializing in building scalable and interactive web applications. 
+Specializing in building scalable and interactive web applications.  
  
 💞️ Looking to collaborate on real-world web projects, internships, and hackathons.  
 🔍 Currently seeking a **Full-Stack Developer Internship or Entry-Level Position** to apply and grow my technical skills. 
