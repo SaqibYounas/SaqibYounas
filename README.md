@@ -8,7 +8,7 @@ Specializing in building scalable and interactive web applications.
 🔍 Currently seeking a **Full-Stack Developer Internship or Entry-Level Position** to apply and grow my technical skills. 
  
 📫 **How to reach me:**   
-<p align="left">
+<p align="left"> 
   <a href="https://portfolio-github-io-seven-gamma.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
