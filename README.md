@@ -4,7 +4,7 @@
 ---  
 Specializing in building scalable and interactive web applications.  
     
-💞️ Looking to collaborate on real-world web projects, internships, and hackathons.   
+💞️ Looking to collaborate on real world web projects, internships, and hackathons.   
 🔍 Currently seeking a **Full-Stack Developer Internship or Entry-Level Position** to apply and grow my technical skills. 
  
 📫 **How to reach me:**   
@@ -24,7 +24,7 @@ Specializing in building scalable and interactive web applications.
 📞 **Phone:** 0342-0339016  
 
 😄 **Pronouns:** He/Him  
-⚡ **Fun fact:** I enjoy solving real-world problems by converting ideas into interactive web apps.
+⚡ **Fun fact:** I enjoy solving real world problems by converting ideas into interactive web apps.
 
 ---
 
