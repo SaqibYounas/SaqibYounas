@@ -40,11 +40,13 @@ I’m now eager to grow as a **Full Stack Developer** and contribute to building
 ### 📜 Certifications  
 
 **HackerRank Certifications**  
+
+-  ⚙️ JavaScript (Basic) — *Issued Oct 2025*  
+-  ☁︎ AWS Cloud Practitioner Essentials — *Issued Dec 2025*  
 - 🧩 SQL (Basic) — *Issued Sep 2025*  
 - 🧠 SQL (Intermediate) — *Issued Sep 2025*  
-- 🎨 CSS (Basic) — *Issued Sep 2025*  
-- ⚙️ JavaScript (Basic) — *Issued Oct 2025*  
-
+- 🎨 CSS (Basic) — *Issued Sep 2025*
+  
 ---
 
 ### 🎯 Objective  
