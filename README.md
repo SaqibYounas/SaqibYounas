@@ -4,8 +4,7 @@
 ---  
 Specializing in building scalable and interactive web applications.    
     
-💞️ Looking to collaborate on real world web projects, internships, and hackathons.    
-🔍 Currently seeking a **Full-Stack Developer Internship or Entry-Level Position** to apply and grow my technical skills.  
+🚀 Currently pursuing a **MERN Stack Internship at Xpert Prime**, where I’m building and optimizing full-stack applications using React, Node.js, Express, and MongoDB.
  
 📫 **How to reach me:**    
 <p align="left"> 
@@ -30,7 +29,7 @@ Specializing in building scalable and interactive web applications.
 
 ### 👤 About Me
 
-I’m **Muhammad Saqib**, a BSIT student in my 5th semester who genuinely enjoys building websites that actually help people.  
+I’m **Muhammad Saqib**, a BSIT student in my 6th semester who genuinely enjoys building websites that actually help people.  
 My first web project made me realize how exciting it is to turn an idea into something real. Since then, I have worked on both frontend and backend projects, improving my skills one step at a time.  
 I have completed two internships at **Appaura (Frontend)** and **TechTommy (Backend)**, working with React.js, Node.js, and PostgreSQL.  
 I’m now eager to grow as a **Full Stack Developer** and contribute to building impactful, user-focused solutions.
