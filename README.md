@@ -52,7 +52,7 @@ I’m now eager to grow as a **Full Stack Developer** and contribute to building
 
 ### 🎯 Objective  
 
-BSIT student (5th semester) with hands-on experience in both frontend and backend development through real-world internships.  
+BSIT student (6th semester) with hands-on experience in both frontend and backend development through real-world internships.  
 Skilled in building full-stack applications using React, Node.js, TypeScript, and MongoDB.  
 Actively seeking opportunities to contribute to practical projects, enhance my skills, and grow as a **Full-Stack Web Developer**.
 
