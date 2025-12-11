@@ -68,14 +68,14 @@ Actively seeking opportunities to contribute to practical projects, enhance my s
 
 ### 💼 Experience  
 
-- **🌐 Appaura — Frontend Developer Intern (6 Weeks)**  
+- **🌐 Appaura — Frontend Developer Intern**  
   📍 Remote | 📅 Jul 2025 – Sep 2025  
   - Built responsive web interfaces using React.js.  
   - Translated design mockups into functional components.  
   - Debugged and optimized frontend code for performance.  
   - Integrated APIs and joined code reviews.  
 
-- **🛠️ TechTommy — Backend Developer Intern (8 Weeks)**  
+- **🛠️ TechTommy — Backend Developer Intern**  
   📍 Remote | 📅 Aug 2025 – Sep 2025  
   - Created REST APIs using Node.js, Express.js, and PostgreSQL.  
   - Designed and implemented database schemas for better performance.  
