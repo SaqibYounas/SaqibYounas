@@ -103,6 +103,7 @@ Actively seeking opportunities to contribute to practical projects, enhance my s
 ### 🔧 Backend  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF69B4?logo=api&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)  
 ![OAuth2](https://img.shields.io/badge/OAuth2.0-0066A1?logo=auth0&logoColor=white)
