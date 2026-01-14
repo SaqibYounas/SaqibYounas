@@ -109,6 +109,7 @@ Actively seeking opportunities to contribute to practical projects, enhance my s
 ![OAuth2](https://img.shields.io/badge/OAuth2.0-0066A1?logo=auth0&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)  
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 
 ---
 
