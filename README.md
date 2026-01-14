@@ -127,6 +127,8 @@ Actively seeking opportunities to contribute to practical projects, enhance my s
 ![Render](https://img.shields.io/badge/Render-0099FF?logo=render&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-000000?logo=railway&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 
 ---
 
