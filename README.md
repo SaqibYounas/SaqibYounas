@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Saqib Younas
 
 ### 💻 Full-Stack Web Developer  
----  
+---   
 Specializing in building scalable and interactive web applications.       
     
 🚀 Currently pursuing a **MERN Stack Internship at Xpert Prime**, where I’m building and optimizing full-stack applications using React, Node.js, Express, and MongoDB.
