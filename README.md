@@ -5,7 +5,7 @@
 Specializing in building scalable and interactive web applications.       
     
 🚀 Currently pursuing a **MERN Stack Internship at Xpert Prime**, where I’m building and optimizing full-stack applications using React, Node.js, Express, and MongoDB.
-  
+   
 📫 **How to reach me:**    
 <p align="left">    
   <a href="https://portfolio-github-io-seven-gamma.vercel.app/" target="_blank">
