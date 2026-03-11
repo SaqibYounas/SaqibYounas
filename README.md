@@ -3,9 +3,7 @@
 ### 💻 Full-Stack Web Developer    
 ---      
 Specializing in building scalable and interactive web applications.        
-    
-🚀 Currently pursuing a **MERN Stack Internship at Xpert Prime**, where I’m building and optimizing full-stack applications using React, Node.js, Express, and MongoDB. 
-   
+       
 📫 **How to reach me:**      
 <p align="left">    
   <a href="https://portfolio-github-io-seven-gamma.vercel.app/" target="_blank">
@@ -68,6 +66,13 @@ Actively seeking opportunities to contribute to practical projects, enhance my s
 
 ### 💼 Experience  
 
+- **🚀 Xpert Prime — MERN Stack Developer Intern** 📍 Onsite | 📅 Nov 2025 – Mar 2026  
+  - Developing and managing end-to-end web solutions using the MERN stack.  
+  - Direct client coordination to gather requirements and deliver custom IT solutions.  
+  - Building scalable dashboards with advanced role-based access control (RBAC).  
+  - Leading the integration of third-party services like Stripe and real-time notifications.  
+  - Managing project lifecycles from database design to final deployment on Vercel/VPS.
+  
 - **🌐 Appaura — Frontend Developer Intern**  
   📍 Remote | 📅 Jul 2025 – Sep 2025  
   - Built responsive web interfaces using React.js.  
