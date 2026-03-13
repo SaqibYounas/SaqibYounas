@@ -31,7 +31,7 @@ I’m **Muhammad Saqib**, a BSIT student in my 6th semester who genuinely enjoys
 My first web project made me realize how exciting it is to turn an idea into something real. Since then, I have worked on both frontend and backend projects, improving my skills one step at a time.  
 I have completed two internships at **Appaura (Frontend)** and **TechTommy (Backend)**, working with React.js, Node.js, and PostgreSQL.  
 I’m now eager to grow as a **Full Stack Developer** and contribute to building impactful, user-focused solutions.
-
+ 
 ---
 
 ### 📜 Certifications  
