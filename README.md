@@ -27,11 +27,10 @@ Specializing in building scalable and interactive web applications.
 
 ### 👤 About Me
 
-I’m **Muhammad Saqib**, a BSIT student in my 6th semester who genuinely enjoys building websites that actually help people.  
-My first web project made me realize how exciting it is to turn an idea into something real. Since then, I have worked on both frontend and backend projects, improving my skills one step at a time.  
-I have completed two internships at **Appaura (Frontend)** and **TechTommy (Backend)**, working with React.js, Node.js, and PostgreSQL.  
-I’m now eager to grow as a **Full Stack Developer** and contribute to building impactful, user-focused solutions.
- 
+I’m a BSIT student (6th semester) passionate about building practical web solutions that make a real impact. I’ve gained hands on experience in frontend and backend development through internships at Appaura, TechTommy, and Xpert Prime.
+
+I focus on full stack development, integrating automation and third party services to deliver end-to-end solutions. Currently, I’m seeking Full-Stack positions to contribute, learn, and grow.
+
 ---
 
 ### 📜 Certifications  
@@ -52,7 +51,6 @@ I’m now eager to grow as a **Full Stack Developer** and contribute to building
 
 BSIT student (6th semester) with hands-on experience in both frontend and backend development through real-world internships.  
 Skilled in building full-stack applications using React, Node.js, TypeScript, and MongoDB.  
-Actively seeking opportunities to contribute to practical projects, enhance my skills, and grow as a **Full-Stack Web Developer**.
 
 ---
 
