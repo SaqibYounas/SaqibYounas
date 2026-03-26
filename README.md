@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Saqib Younas
 
 ### 💻 Full-Stack Web Developer    
----      
+---       
 Specializing in building scalable and interactive web applications.          
         
 📫 **How to reach me:**      
