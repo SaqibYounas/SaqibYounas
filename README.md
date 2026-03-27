@@ -8,7 +8,7 @@ Specializing in building scalable and interactive web applications.
 <p align="left">    
   <a href="https://portfolio-github-io-seven-gamma.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
+  </a> 
   <a href="https://www.linkedin.com/in/muhammad-saqib-younas-0123aa329" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
