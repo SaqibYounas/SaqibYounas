@@ -4,7 +4,7 @@
 ---       
 Specializing in building scalable and interactive web applications.          
         
-📫 **How to reach me:**      
+ **How to reach me:**      
 <p align="left">    
   <a href="https://portfolio-github-io-seven-gamma.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
@@ -17,11 +17,11 @@ Specializing in building scalable and interactive web applications.
   </a>
 </p>
  
-✉️ **Email:** muhammadsaqibyounas11@gmail.com  
-📞 **Phone:** 0342-0339016  
+**Email:** muhammadsaqibyounas11@gmail.com  
+**Phone:** 0342-0339016  
 
-😄 **Pronouns:** He/Him  
-⚡ **Fun fact:** I enjoy solving real world problems by converting ideas into interactive web apps.
+**Pronouns:** He/Him  
+**Fun fact:** I enjoy solving real world problems by converting ideas into interactive web apps.
 
 ---
 
@@ -37,14 +37,14 @@ I’m a **BSIT student (6th semester)** passionate about building **full-stack a
 ### 📜 Certifications  
 
 **AWS(Amazon Web Services)**
-- ☁️ AWS Cloud Practitioner Essentials — *Issued Dec 2025*  
+- AWS Cloud Practitioner Essentials — *Issued Dec 2025*  
 
 **HackerRank Certifications**  
 
-- ⚙️ JavaScript (Basic) — *Issued Oct 2025*  
-- 🧩 SQL (Basic) — *Issued Sep 2025*  
-- 🧠 SQL (Intermediate) — *Issued Sep 2025*  
-- 🎨 CSS (Basic) — *Issued Sep 2025*
+- JavaScript (Basic) — *Issued Oct 2025*  
+- SQL (Basic) — *Issued Sep 2025*  
+- SQL (Intermediate) — *Issued Sep 2025*  
+- CSS (Basic) — *Issued Sep 2025*
 
 ---
 
@@ -59,28 +59,29 @@ Skilled in building full-stack applications using React, Node.js, TypeScript, an
 
 **Bachelor of Science in Information Technology (BSIT)**  
 *The Superior University, Lahore*  
-📅 Start: October 2023 — 🎓 Expected: 2027  
+ Start: October 2023 — 🎓 Expected: 2027  
 
 ---
 
 ### 💼 Experience  
 
-- **🚀 Xpert Prime — MERN Stack Developer Intern** 📍 Onsite | 📅 Nov 2025 – Mar 2026  
+- ** Xpert Prime — MERN Stack Developer Intern**
+     Onsite | 📅 Nov 2025 – Mar 2026  
   - Developing and managing end-to-end web solutions using the MERN stack.  
   - Direct client coordination to gather requirements and deliver custom IT solutions.  
   - Building scalable dashboards with advanced role-based access control (RBAC).  
   - Leading the integration of third-party services like Stripe and real-time notifications.  
   - Managing project lifecycles from database design to final deployment on Vercel/VPS.
   
-- **🌐 Appaura — Frontend Developer Intern**  
-  📍 Remote | 📅 Jul 2025 – Sep 2025  
+- ** Appaura — Frontend Developer Intern**  
+     Remote | 📅 Jul 2025 – Sep 2025  
   - Built responsive web interfaces using React.js.  
   - Translated design mockups into functional components.  
   - Debugged and optimized frontend code for performance.  
   - Integrated APIs and joined code reviews.  
 
 - **🛠️ TechTommy — Backend Developer Intern**  
-  📍 Remote | 📅 Aug 2025 – Sep 2025  
+    Remote | 📅 Aug 2025 – Sep 2025  
   - Created REST APIs using Node.js, Express.js, and PostgreSQL.  
   - Designed and implemented database schemas for better performance.  
   - Integrated backend services with frontend features.  
@@ -145,6 +146,6 @@ Skilled in building full-stack applications using React, Node.js, TypeScript, an
 ---
 
 ### 🤝 Soft Skills  
-🧠 Problem Solving  
-🗣️ Communication  
-🤝 Teamwork
+Problem Solving  
+Communication  
+Teamwork
