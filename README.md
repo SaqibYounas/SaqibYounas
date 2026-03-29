@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Saqib Younas
 
-### 💻 Full-Stack Web Developer    
+### 💻 Full Stack Software Engineer | MERN | Salesforce | AWS    
 ---       
 Specializing in building scalable and interactive web applications.          
         
