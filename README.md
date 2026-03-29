@@ -27,9 +27,10 @@ Specializing in building scalable and interactive web applications.
 
 ### 👤 About Me
 
-I’m a BSIT student (6th semester) passionate about building practical web solutions that make a real impact. I’ve gained hands on experience in frontend and backend development through internships at Appaura, TechTommy, and Xpert Prime.
-
-I focus on full stack development, integrating automation and third party services to deliver end-to-end solutions. Currently, I’m seeking Full-Stack positions to contribute, learn, and grow.
+I’m a **BSIT student (6th semester)** passionate about building **full-stack applications**.  
+- Hands-on experience in **React, Node.js, MongoDB, PostgreSQL**.  
+- Worked on **real-world client projects** during internships at **Appaura, TechTommy, and Xpert Prime**.  
+- Skilled in **automation with n8n**, **third-party integrations**, and **end-to-end project delivery**.  
 
 ---
 
@@ -84,19 +85,6 @@ Skilled in building full-stack applications using React, Node.js, TypeScript, an
   - Designed and implemented database schemas for better performance.  
   - Integrated backend services with frontend features.  
   - Worked on deployment and Git version control.  
-
----
-
-## 🛠️ Tech Stack  
-
-
-
-## 👨‍💻 About Me
-
-I’m a **BSIT student (6th semester)** passionate about building **full-stack applications**.  
-- Hands-on experience in **React, Node.js, MongoDB, PostgreSQL**.  
-- Worked on **real-world client projects** during internships at **Appaura, TechTommy, and Xpert Prime**.  
-- Skilled in **automation with n8n**, **third-party integrations**, and **end-to-end project delivery**.  
 
 ---
 
