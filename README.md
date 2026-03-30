@@ -27,10 +27,10 @@ Specializing in building scalable and interactive web applications.
 
 ### 👤 About Me
 
-I’m a **BSIT student (6th semester)** passionate about building **full-stack applications**.  
+I’m a **BSIT student (6th semester)** passionate about building **full stack applications**.  
 - Hands-on experience in **React, Node.js, MongoDB, PostgreSQL**.  
-- Worked on **real-world client projects** during internships at **Appaura, TechTommy, and Xpert Prime**.  
-- Skilled in **automation with n8n**, **third-party integrations**, and **end-to-end project delivery**.  
+- Worked on **real world client projects** during internships at **Appaura, TechTommy, and Xpert Prime**.  
+- Skilled in **automation with n8n**, **third party integrations**, and **end to end project delivery**.  
 
 ---
 
@@ -50,8 +50,8 @@ I’m a **BSIT student (6th semester)** passionate about building **full-stack a
 
 ### 🎯 Objective  
 
-BSIT student (6th semester) with hands-on experience in both frontend and backend development through real-world internships.  
-Skilled in building full-stack applications using React, Node.js, TypeScript, and MongoDB.  
+BSIT student (6th semester) with hands on experience in both frontend and backend development through real world internships.  
+Skilled in building full stack applications using React, Node.js, TypeScript, and MongoDB.  
 
 ---
 
@@ -65,7 +65,7 @@ Skilled in building full-stack applications using React, Node.js, TypeScript, an
 
 ### 💼 Experience  
 
-- ** Xpert Prime — MERN Stack Developer Intern**
+- **Xpert Prime — MERN Stack Developer Intern**
      Onsite | 📅 Nov 2025 – Mar 2026  
   - Developing and managing end-to-end web solutions using the MERN stack.  
   - Direct client coordination to gather requirements and deliver custom IT solutions.  
@@ -73,14 +73,14 @@ Skilled in building full-stack applications using React, Node.js, TypeScript, an
   - Leading the integration of third-party services like Stripe and real-time notifications.  
   - Managing project lifecycles from database design to final deployment on Vercel/VPS.
   
-- ** Appaura — Frontend Developer Intern**  
+- **Appaura — Frontend Developer Intern**  
      Remote | 📅 Jul 2025 – Sep 2025  
   - Built responsive web interfaces using React.js.  
   - Translated design mockups into functional components.  
   - Debugged and optimized frontend code for performance.  
   - Integrated APIs and joined code reviews.  
 
-- **🛠️ TechTommy — Backend Developer Intern**  
+- **TechTommy — Backend Developer Intern**  
     Remote | 📅 Aug 2025 – Sep 2025  
   - Created REST APIs using Node.js, Express.js, and PostgreSQL.  
   - Designed and implemented database schemas for better performance.  
