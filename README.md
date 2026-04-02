@@ -34,20 +34,6 @@ I’m a **BSIT student (6th semester)** passionate about building **full stack a
 
 ---
 
-### 📜 Certifications  
-
-**AWS(Amazon Web Services)**
-- AWS Cloud Practitioner Essentials — *Issued Dec 2025*  
-
-**HackerRank Certifications**  
-
-- JavaScript (Basic) — *Issued Oct 2025*  
-- SQL (Basic) — *Issued Sep 2025*  
-- SQL (Intermediate) — *Issued Sep 2025*  
-- CSS (Basic) — *Issued Sep 2025*
-
----
-
 ### 🎯 Objective  
 
 BSIT student (6th semester) with hands on experience in both frontend and backend development through real world internships.  
@@ -86,6 +72,20 @@ Skilled in building full stack applications using React, Node.js, TypeScript, an
   - Designed and implemented database schemas for better performance.  
   - Integrated backend services with frontend features.  
   - Worked on deployment and Git version control.  
+
+---
+
+### 📜 Certifications  
+
+**AWS(Amazon Web Services)**
+- AWS Cloud Practitioner Essentials — *Issued Dec 2025*  
+
+**HackerRank Certifications**  
+
+- JavaScript (Basic) — *Issued Oct 2025*  
+- SQL (Basic) — *Issued Sep 2025*  
+- SQL (Intermediate) — *Issued Sep 2025*  
+- CSS (Basic) — *Issued Sep 2025*
 
 ---
 
