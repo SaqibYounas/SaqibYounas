@@ -3,7 +3,7 @@
 ### 💻 Full Stack Software Engineer | MERN | Salesforce | AWS     
 ---          
 Specializing in building scalable and interactive web applications.           
-        
+         
  **How to reach me:**      
 <p align="left">    
   <a href="https://portfolio-github-io-seven-gamma.vercel.app/" target="_blank">
