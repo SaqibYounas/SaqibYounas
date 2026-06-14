@@ -30,7 +30,7 @@ Specializing in building scalable and interactive web applications.
 
 ### 👤 About Me
 
-I'm a **BSIT student (7th semester)** currently working as an **Associate Software Engineer at Cloudai**, passionate about building **full stack applications**.
+I'm a **BSIT student (7th semester)** currently working as an **Associate Software Engineer at KCloudAI**, passionate about building **full stack applications**.
 
 - Hands on experience in **React, Next.js, Node.js, Express.js, NestJS, FastAPI, Django, and MongoDB**.
 - Currently building a **microservices-based e-commerce platform** with a **POS system** and **ERP integration** at Cloudai.
