@@ -1,14 +1,17 @@
-# 👋 Hi, I’m Saqib Younas 
-  
-### 💻 Full Stack Software Engineer | MERN | Salesforce | AWS      
----             
-Specializing in building scalable and interactive web applications.           
-           
- **How to reach me:**       
-<p align="left">    
+# 👋 Hi, I'm Saqib Younas
+
+### 💻 Full Stack Software Engineer | MERN | Salesforce | AWS
+
+---
+
+Specializing in building scalable and interactive web applications.
+
+**How to reach me:**
+
+<p align="left">
   <a href="https://portfolio-github-io-seven-gamma.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a> 
+  </a>
   <a href="https://www.linkedin.com/in/muhammad-saqib-younas-0123aa329" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -16,75 +19,87 @@ Specializing in building scalable and interactive web applications.
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
- 
-**Email:** muhammadsaqibyounas11@gmail.com  
-**Phone:** 0342-0339016  
 
-**Pronouns:** He/Him  
-**Fun fact:** I enjoy solving real world problems by converting ideas into interactive web apps.
+**Email:** muhammadsaqibyounas11@gmail.com
+**Phone:** 0342-0339016
+
+**Pronouns:** He/Him
+**Fun fact:** I enjoy solving real-world problems by converting ideas into interactive web apps.
 
 ---
 
 ### 👤 About Me
 
-I’m a **BSIT student (6th semester)** passionate about building **full stack applications**.  
-- Hands-on experience in **React, Node.js, MongoDB, PostgreSQL**.  
-- Worked on **real world client projects** during internships at **Appaura, TechTommy, and Xpert Prime**.  
-- Skilled in **automation with n8n**, **third party integrations**, and **end to end project delivery**.  
+I'm a **BSIT student (7th semester)** currently working as an **Associate Software Engineer at Cloudai**, passionate about building **full stack applications**.
+
+- Hands on experience in **React, Next.js, Node.js, Express.js, NestJS, FastAPI, Django, and MongoDB**.
+- Currently building a **microservices-based e-commerce platform** with a **POS system** and **ERP integration** at Cloudai.
+- Worked on **real world client projects** during internships at **Appaura, TechTommy, and Xpert Prime**.
+- Deployed production applications on **AWS EC2** with **containerized Docker** environments and **CI/CD pipelines**.
+- Skilled in **AWS services** including **S3**, **RDS (relational databases)**, and managed cloud infrastructure.
+- Experienced in **automation with n8n**, **third party integrations**, and **end-to-end project delivery**.
 
 ---
 
-### 🎯 Objective  
+### 🎯 Objective
 
-BSIT student (6th semester) with hands on experience in both frontend and backend development through real world internships.  
-Skilled in building full stack applications using React, Node.js, TypeScript, and MongoDB.  
-
----
-
-### 🎓 Education  
-
-**Bachelor of Science in Information Technology (BSIT)**  
-*The Superior University, Lahore*  
- Start: October 2023 — 🎓 Expected: 2027  
+BSIT student (7th semester) currently working as an Associate Software Engineer at Cloudai, with hands on experience in both frontend and backend development through professional employment and real world internships. Skilled in building full stack applications using React, Next.js, TypeScript, Node.js, Express.js, and NestJS. Experienced in microservices architecture, POS and ERP system integration, deploying containerized applications on AWS EC2 with CI/CD pipelines, and working with AWS services including S3 and relational databases.
 
 ---
 
-### 💼 Experience  
+### 🎓 Education
+
+**Bachelor of Science in Information Technology (BSIT)**
+*The Superior University, Lahore*
+Start: October 2023 — 🎓 Expected: 2027
+
+---
+
+### 💼 Experience
+
+- **KCloudAI — Associate Software Engineer**
+  Onsite | 📅 Apr 2026 – Present
+  - Working as an Associate Software Engineer on a large scale **e-commerce platform** with a **microservices architecture**.
+  - Building backend services using **NestJS** and frontend with **Next.js**.
+  - Developing a full **POS (Point of Sale) system** and e-commerce store with seamless integration.
+  - Integrating **ERP (Enterprise Resource Planning)** systems to manage store operations including orders, inventory, and product management.
+  - Collaborating across multiple microservices for scalable, maintainable, and production ready delivery.
 
 - **Xpert Prime — MERN Stack Developer Intern**
-     Onsite | 📅 Nov 2025 – Mar 2026  
-  - Developing and managing end-to-end web solutions using the MERN stack.  
-  - Direct client coordination to gather requirements and deliver custom IT solutions.  
-  - Building scalable dashboards with advanced role-based access control (RBAC).  
-  - Leading the integration of third-party services like Stripe and real-time notifications.  
-  - Managing project lifecycles from database design to final deployment on Vercel/VPS.
-  
-- **Appaura — Frontend Developer Intern**  
-     Remote | 📅 Jul 2025 – Sep 2025  
-  - Built responsive web interfaces using React.js.  
-  - Translated design mockups into functional components.  
-  - Debugged and optimized frontend code for performance.  
-  - Integrated APIs and joined code reviews.  
+  Onsite | 📅 Nov 2025 – Mar 2026
+  - Developed and managed end-to-end web solutions using the MERN stack for real client projects.
+  - Direct client coordination to gather requirements and deliver custom IT solutions.
+  - Built scalable dashboards with advanced role based access control (RBAC).
+  - Led integration of third party services including Stripe and real time notifications via Socket.io.
+  - Deployed containerized applications on **AWS EC2** using **Docker**, with full **CI/CD pipelines**.
+  - Utilized **AWS S3** for file storage and **AWS RDS** for relational database management.
+  - Managed project lifecycles from database design to final deployment on EC2 and Vercel.
 
-- **TechTommy — Backend Developer Intern**  
-    Remote | 📅 Aug 2025 – Sep 2025  
-  - Created REST APIs using Node.js, Express.js, and PostgreSQL.  
-  - Designed and implemented database schemas for better performance.  
-  - Integrated backend services with frontend features.  
-  - Worked on deployment and Git version control.  
+- **Appaura — Frontend Developer Intern**
+  Remote | 📅 Jul 2025 – Sep 2025
+  - Built responsive web interfaces using **React.js** and **Next.js**.
+  - Translated design mockups into functional, pixel perfect components.
+  - Debugged and optimized frontend code for performance.
+  - Integrated REST APIs and participated in code reviews.
+
+- **TechTommy — Backend Developer Intern**
+  Remote | 📅 Aug 2025 – Sep 2025
+  - Created REST APIs using **Node.js**, **Express.js**, and **PostgreSQL**.
+  - Designed and implemented database schemas for scalability and performance.
+  - Integrated backend services with frontend features.
+  - Worked on deployment, containerization with **Docker**, and Git version control.
 
 ---
 
-### 📜 Certifications  
+### 📜 Certifications
 
-**AWS(Amazon Web Services)**
-- AWS Cloud Practitioner Essentials — *Issued Dec 2025*  
+**AWS (Amazon Web Services)**
+- AWS Cloud Practitioner Essentials — *Issued Dec 2025*
 
-**HackerRank Certifications**  
-
-- JavaScript (Basic) — *Issued Oct 2025*  
-- SQL (Basic) — *Issued Sep 2025*  
-- SQL (Intermediate) — *Issued Sep 2025*  
+**HackerRank Certifications**
+- JavaScript (Basic) — *Issued Oct 2025*
+- SQL (Basic) — *Issued Sep 2025*
+- SQL (Intermediate) — *Issued Sep 2025*
 - CSS (Basic) — *Issued Sep 2025*
 
 ---
@@ -128,6 +143,9 @@ Skilled in building full stack applications using React, Node.js, TypeScript, an
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?logo=amazonaws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?logo=amazons3&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?logo=amazonrds&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-000000?logo=railway&logoColor=white)
@@ -145,7 +163,7 @@ Skilled in building full stack applications using React, Node.js, TypeScript, an
 
 ---
 
-### 🤝 Soft Skills  
-Problem Solving  
-Communication  
+### 🤝 Soft Skills
+Problem Solving
+Communication
 Teamwork
