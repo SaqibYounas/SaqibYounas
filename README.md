@@ -58,7 +58,7 @@ Start: October 2023 — 🎓 Expected: 2027
 ### 💼 Experience
 
 - **KCloudAI — Associate Software Engineer**
-  Onsite | 📅 Apr 2026 – Present
+  Onsite | 📅 Mar 2026 – Present
   - Working as an Associate Software Engineer on a large scale **e-commerce platform** with a **microservices architecture**.
   - Building backend services using **NestJS** and frontend with **Next.js**.
   - Developing a full **POS (Point of Sale) system** and e-commerce store with seamless integration.
