@@ -41,6 +41,9 @@ I'm a **BSIT student (7th semester)** currently working as an **Associate Softwa
 
 ---
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaqibYounas)](https://git.io/streak-stats)
+
+
 ### 🎯 Objective
 
 BSIT student (7th semester) currently working as an Associate Software Engineer at Cloudai, with hands on experience in both frontend and backend development through professional employment and real world internships. Skilled in building full stack applications using React, Next.js, TypeScript, Node.js, Express.js, and NestJS. Experienced in microservices architecture, POS and ERP system integration, deploying containerized applications on AWS EC2 with CI/CD pipelines, and working with AWS services including S3 and relational databases.
