@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Saqib Younas 
 
-### 💻 Full Stack Software Engineer | MERN | Salesforce | AWS
-   
+Associate Software Engineer | Full Stack Developer | React • Next.js • NestJS • AWS • Docker   
 ---
 **How to reach me:**
 
