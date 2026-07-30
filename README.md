@@ -25,26 +25,21 @@
 
 ---
 
-### 👤 About Me
+### 🎯 Professional Summary
 
-I'm a **BSIT student (7th semester)** currently working as an **Associate Software Engineer at KCloudAI**, passionate about building **full stack applications**.
+Associate Software Engineer and 7th-semester BSIT student with hands-on experience building scalable full-stack applications using React, Next.js, TypeScript, Tailwind CSS, Node.js, Express.js, NestJS, FastAPI, Django, and MongoDB. Experienced in developing responsive dashboard UIs from Figma designs using Next.js and Tailwind CSS, and building robust backend services with Express.js and NestJS following RESTful API architecture. Currently developing an e commerce platform with POS and ERP integration at KCloudAI.
 
-- Hands on experience in **React, Next.js, Node.js, Express.js, NestJS, FastAPI, Django, and MongoDB**.
-- Currently building a **microservices-based e-commerce platform** with a **POS system** and **ERP integration** at Cloudai.
-- Worked on **real world client projects** during internships at **Appaura, TechTommy, and Xpert Prime**.
-- Deployed production applications on **AWS EC2** with **containerized Docker** environments and **CI/CD pipelines**.
-- Skilled in **AWS services** including **S3**, **RDS (relational databases)**, and managed cloud infrastructure.
-- Experienced in **automation with n8n**, **third party integrations**, and **end-to-end project delivery**.
+Skilled in implementing RAG (Retrieval-Augmented Generation) chatbots, integrating third party APIs. Experienced in optimizing database queries, improving application performance, implementing efficient search functionality, and following software engineering best practices to deliver scalable, maintainable, and production ready solutions. Proficient in deploying containerized applications on AWS EC2 with Docker, CI/CD pipelines, and AWS services including S3 and RDS. Passionate about designing high quality software, solving real-world problems, and continuously learning modern technologies.
+
 
 ---
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaqibYounas&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaqibYounas&layout=compact&theme=tokyonight)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaqibYounas)](https://git.io/streak-stats)
-
-
-### 🎯 Objective
-
-BSIT student (7th semester) currently working as an Associate Software Engineer at Cloudai, with hands on experience in both frontend and backend development through professional employment and real world internships. Skilled in building full stack applications using React, Next.js, TypeScript, Node.js, Express.js, and NestJS. Experienced in microservices architecture, POS and ERP system integration, deploying containerized applications on AWS EC2 with CI/CD pipelines, and working with AWS services including S3 and relational databases.
-
 ---
 
 ### 🎓 Education
