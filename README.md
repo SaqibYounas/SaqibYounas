@@ -53,12 +53,15 @@ Start: October 2023 — 🎓 Expected: 2027
 ### 💼 Experience
 
 - **KCloudAI — Associate Software Engineer**
-  Onsite | 📅 Mar 2026 – Present
-  - Working as an Associate Software Engineer on a large scale **e-commerce platform** with a **microservices architecture**.
-  - Building backend services using **NestJS** and frontend with **Next.js**.
-  - Developing a full **POS (Point of Sale) system** and e-commerce store with seamless integration.
-  - Integrating **ERP (Enterprise Resource Planning)** systems to manage store operations including orders, inventory, and product management.
-  - Collaborating across multiple microservices for scalable, maintainable, and production ready delivery.
+     Onsite | 📅 Mar 2026 – Present
+   - Working as an Associate Software Engineer on a large-scale e-commerce platform.
+   - Developing responsive frontend applications using **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**, translating Figma designs into production ready user interfaces.
+   - Building scalable backend APIs and business logic using **NestJS**, integrating secure authentication and third party services.
+   - Developing a comprehensive **Point of Sale (POS)** system and e-commerce platform with seamless business workflows.
+   - Integrating **ERP (Enterprise Resource Planning)** modules to manage products, inventory, orders, customers, and store operations.
+   - Implementing **RAG-based AI chatbot** functionality and integrating external APIs to enhance platform capabilities.
+   - Optimizing database queries, search performance, and application efficiency while following software engineering best practices.
+   - Deploying and maintaining applications on **AWS EC2** using **Docker**, **CI/CD pipelines**, **S3**, and **RDS** to ensure reliable production deployments.
 
 - **Xpert Prime — MERN Stack Developer Intern**
   Onsite | 📅 Nov 2025 – Mar 2026
