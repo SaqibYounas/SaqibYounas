@@ -3,9 +3,6 @@
 ### 💻 Full Stack Software Engineer | MERN | Salesforce | AWS
    
 ---
-
-Specializing in building scalable and interactive web applications.
-
 **How to reach me:**
 
 <p align="left">
@@ -20,7 +17,7 @@ Specializing in building scalable and interactive web applications.
   </a>
 </p>
 
-**Email:** muhammadsaqibyounas11@gmail.com
+**Email:** saqibyounas.dev@gmail.com
 **Phone:** 0342-0339016
 
 **Pronouns:** He/Him
