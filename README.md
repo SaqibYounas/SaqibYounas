@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saqib Younas 
 
-# Associate Software Engineer | Full Stack Developer | React • Next.js • NestJS   
+# Associate Software Engineer | Full Stack Developer  
 
 ---
 **How to reach me:**
