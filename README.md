@@ -3,7 +3,7 @@
 # Associate Software Engineer | Full Stack Developer  
   
 ---
-**How to reach me:** 
+**How to reach me:**  
  
 <p align="left">
   <a href="https://portfolio-github-io-seven-gamma.vercel.app/" target="_blank">
