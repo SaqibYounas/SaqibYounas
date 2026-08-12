@@ -27,17 +27,13 @@
 
 ### 🎯 Professional Summary
 
-Associate Software Engineer and 7th-semester BSIT student with hands-on experience building scalable full-stack applications using React, Next.js, TypeScript, Tailwind CSS, Node.js, Express.js, NestJS, FastAPI, Django, and MongoDB. Experienced in developing responsive dashboard UIs from Figma designs using Next.js and Tailwind CSS, and building robust backend services with Express.js and NestJS following RESTful API architecture. Currently developing an e commerce platform with POS and ERP integration at KCloudAI.
+Associate Software Engineer and final year BSIT student with hands-on experience building scalable full-stack applications using React, Next.js, TypeScript, Tailwind CSS, Node.js, Express.js, NestJS, FastAPI, Django, and MongoDB. Experienced in developing responsive dashboard UIs from Figma designs using Next.js and Tailwind CSS, and building robust backend services with Express.js and NestJS following RESTful API architecture. Currently developing an e commerce platform with POS and ERP integration at KCloudAI.
 
 Skilled in implementing RAG (Retrieval-Augmented Generation) chatbots, integrating third party APIs. Experienced in optimizing database queries, improving application performance, implementing efficient search functionality, and following software engineering best practices to deliver scalable, maintainable, and production ready solutions. Proficient in deploying containerized applications on AWS EC2 with Docker, CI/CD pipelines, and AWS services including S3 and RDS. Passionate about designing high quality software, solving real-world problems, and continuously learning modern technologies.
 
 
 ---
 ## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaqibYounas&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaqibYounas&layout=compact&theme=tokyonight)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaqibYounas)](https://git.io/streak-stats)
 ---
