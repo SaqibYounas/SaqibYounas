@@ -35,7 +35,7 @@ Skilled in implementing RAG (Retrieval-Augmented Generation) chatbots, integrati
 ---
 ## 📊 GitHub Statistics
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaqibYounas)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SaqibYounas&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ---
 
 ### 🎓 Education
