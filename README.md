@@ -27,10 +27,15 @@
 
 ### 🎯 Professional Summary
 
-Associate Software Engineer and final year BSIT student with hands-on experience building scalable full-stack applications using React, Next.js, TypeScript, Tailwind CSS, Node.js, Express.js, NestJS, FastAPI, Django, and MongoDB. Experienced in developing responsive dashboard UIs from Figma designs using Next.js and Tailwind CSS, and building robust backend services with Express.js and NestJS following RESTful API architecture. Currently developing an e commerce platform with POS and ERP integration at KCloudAI.
+Associate Software Engineer and final year BSIT student with hands on experience building and deploying scalable, production-ready full-stack applications using React, Next.js, TypeScript, Tailwind CSS, Node.js, Express.js, NestJS, MongoDB, and PostgreSQL.
 
-Skilled in implementing RAG (Retrieval-Augmented Generation) chatbots, integrating third party APIs. Experienced in optimizing database queries, improving application performance, implementing efficient search functionality, and following software engineering best practices to deliver scalable, maintainable, and production ready solutions. Proficient in deploying containerized applications on AWS EC2 with Docker, CI/CD pipelines, and AWS services including S3 and RDS. Passionate about designing high quality software, solving real-world problems, and continuously learning modern technologies.
+Currently working at KCloudAI as an Associate Software Engineer, contributing to production e-commerce applications, POS systems, Salesforce B2B Commerce solutions, backend APIs, and business integrations. Experienced in transforming Figma designs into responsive production interfaces and developing scalable REST APIs, authentication systems, database driven features, and real-time functionality.
 
+Experienced in building AI-powered applications and RAG (Retrieval-Augmented Generation) systems, including vector search and AI business assistants. Strong experience in Salesforce B2B Commerce, Apex, SOQL, Connect Search API optimization, caching, rate limiting, circuit breakers, and configuration-driven API protection.
+
+Skilled in database design, query optimization, search optimization, SEO, API integrations, real-time communication, and production problem solving. Experienced with Docker, AWS EC2, S3, RDS, Nginx, CI/CD, and Vercel for containerized application deployment and reliable production delivery.
+
+Passionate about building maintainable software, solving real-world business problems, optimizing application performance, and continuously learning modern technologies.
 
 ---
 ## 📊 GitHub Statistics
@@ -51,38 +56,47 @@ Start: October 2023 — 🎓 Expected: 2027
 
 - **KCloudAI — Associate Software Engineer**
      Onsite | 📅 Mar 2026 – Present
-   - Working as an Associate Software Engineer on a large-scale e-commerce platform.
-   - Developing responsive frontend applications using **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**, translating Figma designs into production ready user interfaces.
-   - Building scalable backend APIs and business logic using **NestJS**, integrating secure authentication and third party services.
-   - Developing a comprehensive **Point of Sale (POS)** system and e-commerce platform with seamless business workflows.
-   - Integrating **ERP (Enterprise Resource Planning)** modules to manage products, inventory, orders, customers, and store operations.
-   - Implementing **RAG-based AI chatbot** functionality and integrating external APIs to enhance platform capabilities.
-   - Optimizing database queries, search performance, and application efficiency while following software engineering best practices.
-   - Deploying and maintaining applications on **AWS EC2** using **Docker**, **CI/CD pipelines**, **S3**, and **RDS** to ensure reliable production deployments.
+       * Working on **production e-commerce applications** using Next.js, React, TypeScript, NestJS, and Salesforce B2B Commerce.
+       * Developing responsive and production-ready **e-commerce UIs** from Figma designs using Next.js, React, and Tailwind CSS.
+       * Building scalable **backend APIs, authentication, and business logic** using Node.js and NestJS.
+       * Developing and maintaining a **POS system** with product, pricing, sales, inventory, and business workflow integrations.
+       * Contributing to **ERP integration** and business workflows across products, inventory, orders, customers, and store operations.
+       * Designed and implemented a layered **Salesforce Connect Search API protection architecture** using input validation, caching, token-based controls, rate limiting, circuit breakers, and audit telemetry.
+       * Implemented **configuration-driven Salesforce controls** using Custom Metadata, allowing API limits and protection settings to be changed without code deployment.
+       * Worked with **Apex, SOQL, Salesforce B2B Commerce, Connect Search API, Platform Events, and Custom Metadata** on production features.
+       * Developed backend solutions for **location-based pickup shop filtering**, combining country-level filtering with latitude/longitude logic.
+       * Designed database-driven **courier tracking functionality**, mapping tracking numbers to courier websites for direct order tracking.
+       * Investigated and resolved **SEO and Google indexing issues**, implementing backend noindex/nofollow handling for restricted product pages.
+       * Built responsive **mobile filtering experiences** and resolved production pagination and UI issues.
+       * Worked with **PostgreSQL, MongoDB, TypeORM, REST APIs, and database relationships** for production applications.
+       * Implemented and integrated **AI/RAG functionality**, including vector search and natural-language business assistants.
+       * Dockerized applications and supported **AWS EC2, Nginx, CI/CD, S3, and RDS**-based deployments.
+       * Collaborated with the development team to troubleshoot and resolve production issues across **frontend, backend, Salesforce, database, API, and infrastructure layers**.
+       * Performed functional and regression testing to ensure reliable production releases and maintainable software.
 
 - **Xpert Prime — MERN Stack Developer Intern**
   Onsite | 📅 Nov 2025 – Mar 2026
-  - Developed and managed end-to-end web solutions using the MERN stack for real client projects.
-  - Direct client coordination to gather requirements and deliver custom IT solutions.
-  - Built scalable dashboards with advanced role based access control (RBAC).
-  - Led integration of third party services including Stripe and real time notifications via Socket.io.
-  - Deployed containerized applications on **AWS EC2** using **Docker**, with full **CI/CD pipelines**.
-  - Utilized **AWS S3** for file storage and **AWS RDS** for relational database management.
-  - Managed project lifecycles from database design to final deployment on EC2 and Vercel.
+         - Developed and managed end-to-end web solutions using the MERN stack for real client projects.
+         - Direct client coordination to gather requirements and deliver custom IT solutions.
+         - Built scalable dashboards with advanced role based access control (RBAC).
+         - Led integration of third party services including Stripe and real time notifications via Socket.io.
+         - Deployed containerized applications on **AWS EC2** using **Docker**, with full **CI/CD pipelines**.
+         - Utilized **AWS S3** for file storage and **AWS RDS** for relational database management.
+         - Managed project lifecycles from database design to final deployment on EC2 and Vercel.
 
 - **Appaura — Frontend Developer Intern**
   Remote | 📅 Jul 2025 – Sep 2025
-  - Built responsive web interfaces using **React.js** and **Next.js**.
-  - Translated design mockups into functional, pixel perfect components.
-  - Debugged and optimized frontend code for performance.
-  - Integrated REST APIs and participated in code reviews.
+         - Built responsive web interfaces using **React.js** and **Next.js**.
+         - Translated design mockups into functional, pixel perfect components.
+         - Debugged and optimized frontend code for performance.
+         - Integrated REST APIs and participated in code reviews.
 
 - **TechTommy — Backend Developer Intern**
   Remote | 📅 Aug 2025 – Sep 2025
-  - Created REST APIs using **Node.js**, **Express.js**, and **PostgreSQL**.
-  - Designed and implemented database schemas for scalability and performance.
-  - Integrated backend services with frontend features.
-  - Worked on deployment, containerization with **Docker**, and Git version control.
+         - Created REST APIs using **Node.js**, **Express.js**, and **PostgreSQL**.
+         - Designed and implemented database schemas for scalability and performance.
+         - Integrated backend services with frontend features.
+         - Worked on deployment, containerization with **Docker**, and Git version control.
 
 ---
 
