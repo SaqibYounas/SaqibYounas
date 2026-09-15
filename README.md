@@ -99,6 +99,37 @@ Start: October 2023 — 🎓 Expected: 2027
 
 ---
 
+
+
+Updated portfolio sections
+The Problem (revised)
+Category pages on the Canadian storefront rendered empty. A URL such as /ca/category/Automation/Accessories returned a valid page with working header, breadcrumbs and layout — but no products. The same category opened by its record ID worked correctly.
+
+The failure was silent: no error surfaced to the user or the logs. The page simply showed nothing where a product grid should be.
+
+Critically, the ID-based URLs were already indexed and ranking in production. They appeared in organic search results and in paid campaign landing pages. This ruled out the obvious fix of retiring them in favour of clean slugs — any URL that stopped resolving would render a blank page and forfeit its existing ranking. Both URL forms had to keep working indefinitely.
+
+Constraints (revised)
+Three constraints shaped the solution.
+
+Every existing URL had to keep resolving. ID-based URLs carried live rankings and live ad spend. Breaking them was not an option, so the work was additive: introduce readable slugs without retiring anything.
+
+Redirects were unavailable. The platform commits an HTTP 200 response and the page shell before any custom code executes, so a 301 — the conventional answer to duplicate URLs — cannot be issued from within Salesforce.
+
+Resolution had to stay conditional. Correctness could not come at the cost of an extra query on the pages that already worked.
+
+The Duplicate-Content Problem (new section)
+Keeping every URL alive created a second, subtler problem. A single category became reachable at five or more distinct addresses — ID-based, slug-based, lower-cased, prefixed and trailing-slash variants — each serving identical content.
+
+To a search engine these are separate pages. The result is self-competition: ranking signals that should accumulate on one authoritative URL are instead divided among several near-identical ones, and the engine picks a winner on its own — frequently the least readable option, the raw ID URL.
+
+With redirects ruled out by the platform, canonical consolidation was the available mechanism. Every alternate URL declares the configured slug URL as its canonical, and the slug URL declares itself — a self-referencing canonical, which search engines weigh more heavily than a one-directional claim.
+
+Because a canonical is a hint rather than a directive, the surrounding signals had to agree with it. Internal links were the weak point: breadcrumbs on product pages emitted ID-based URLs while the tag nominated the slug, and the platform's own language-alternate tags were generated from the requested path rather than the canonical one. Both were corrected so that the tag, the internal links and the language annotations all name the same address.
+
+
+
+
 ### 📜 Certifications
 
 **AWS (Amazon Web Services)**
