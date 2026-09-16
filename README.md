@@ -2,7 +2,7 @@
 
 # Associate Software Engineer | Full Stack AI Developer    
        
----
+--- 
 **How to reach me:**   
  
 <p align="left"> 
